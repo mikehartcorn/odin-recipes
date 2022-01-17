@@ -1,5 +1,12 @@
+.button_menu {
+    background-color: gray;
+    width: fit-content;
+}
+
 .button {
-    background-color: #aaaaec;
+    background-color: #f7f7f7;
     border: solid red;
     border-radius: 10px;
+    padding: 16px;
+    margin: 8px;
 }
